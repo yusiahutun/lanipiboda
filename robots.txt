@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://lanipiboda.pages.dev/sitemap.xml
